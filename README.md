@@ -1,6 +1,8 @@
-<!-- ### Hi there || नमस्ते 👋
+ ### Hi there || नमस्ते 👋
 - 📫 How to reach me: <siddheshkukade2003@gmail.com> 
 <hr/>
+
+![](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
 <!--
 **SiddheshKukade/SiddheshKukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
- -->
- 
- <h1 align="center">Hi 👋, I'm William Lane</h1>
+<!--   Edit this Later-->
+<!--  <h1 align="center">Hi 👋, I'm William Lane</h1>
 <h3 align="center">A 14 year old developer from Washington State</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
+<!-- - [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
+- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp) -->
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="willdoescode" height="30" width="40" /></a>
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willdoescode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="willdoescode" height="30" width="40" /></a>
 </p>
+ --> 
