@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there || नमस्ते 👋
+- 📫 How to reach me: <siddheshkukade2003@gmail.com> 
+<hr/>
 <!--
 **SiddheshKukade/SiddheshKukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image title](https://rushter.com/counter.svg)
+ 
