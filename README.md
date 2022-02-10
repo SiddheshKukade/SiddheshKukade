@@ -1,5 +1,8 @@
  ### Hi there || नमस्ते 👋
 - 📫 How to reach me: <siddheshkukade2003@gmail.com> 
+- AI ML DS Work: <https://www.kaggle.com/siddhya>
+- Web Dev: Here On GitHub
+-🌱 I’m currently learning Machine Learning
 <hr/>
 
 ![](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
@@ -9,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
