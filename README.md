@@ -1,13 +1,31 @@
  # IND-C-L-U-T-C-H-E-R at Modern Digital Photo Studio
- ### Hi there || नमस्ते 👋
+ [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/siddhesh-bhupendra-kukade-243980172/)](https://www.linkedin.com/in/siddhesh-bhupendra-kukade-243980172/)
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:siddheshkukade2003@gmail.com)](mailto:siddheshkukade2003@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=#fb3958&link=https://www.instagram.com/siddheshkukade/)](https://www.instagram.com/shivangguptax/)
+[![Twitter Badge](http://img.shields.io/badge/-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/TheSidK_)](https://twitter.com/TheSidK_) 
+<br>
+ ### Hi there || नमस्ते <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29px"> 
 - 📫 How to reach me: <siddheshkukade2003@gmail.com> 
 - AI ML DS Work: <https://www.kaggle.com/siddhya>
 - Web Dev: Here On GitHub
 <hr/>
 -🌱 I’m currently learning Machine Learning
 <hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddheshKukade&label=View Count &color=0e75b6&style=flat" alt="" /> </p>
 
 ![](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
+<!-- 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+
+![](https://github-readme-stats.vercel.app/api?username=SiddheshKukade&show_icons=true&hide_border=true)
 <!--
 **SiddheshKukade/SiddheshKukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
