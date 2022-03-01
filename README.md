@@ -1,4 +1,4 @@
- # IND-C-L-U-T-C-H-E-R at Modern Digital Photo Studio
+ # Modern Digital Photo Studio
  [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/siddhesh-bhupendra-kukade-243980172/)](https://www.linkedin.com/in/siddhesh-bhupendra-kukade-243980172/)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:siddheshkukade2003@gmail.com)](mailto:siddheshkukade2003@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=#fb3958&link=https://www.instagram.com/siddheshkukade/)](https://www.instagram.com/shivangguptax/)
