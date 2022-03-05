@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/SiddheshKukade/SiddheshKukade/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -73,13 +72,10 @@ Domain | My Expertise
 
 <hr>
 
+![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
  
-
-
-
-
-
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A022F7&size=10&lines=IND_CLUTCHERS;MODERN+DIGITAL+MALEGAON)](https://git.io/typing-svg)
 
 
 
