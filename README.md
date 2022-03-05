@@ -25,7 +25,7 @@ IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
 <p>
     <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=15" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=5" />
   
 </p>
 <br/>
