@@ -9,19 +9,39 @@
 <h5 align="center">
 IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
 </h5>
-<p>
-<a align= "center" href="https://github.com/SiddheshKukade">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
-  </a></p>
-  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=15" />
- 
 
+
+<p>
+  <a align= "center" href="https://github.com/SiddheshKukade">
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
+    <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+    
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" />
 
-<!-- [![trophy](https/://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SiddheshKukade&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SiddheshKukade" /> </p>
+  </a>
+</p>
+<br/>
+
+<p>
+    <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
+  
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=15" />
+  
+</p>
+<br/>
+<hr/>
+
+ 
+ <p align="right" >
+  <img src="https://komarev.com/ghpvc/?username=SiddheshKukade&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SiddheshKukade" />
+  <a href="https://twitter.com/TheSidK_" target="blank">
+        <img src="https://img.shields.io/twitter/follow/TheSidK_?logo=twitter&style=for-the-badge" alt="TheSidK_" />
+      <img src="https://img.shields.io/youtube/channel/views/UCv-7LW60AplFfQUpkFjDRhA?style=for-the-badge"/> 
+   </a>
+</p>
+
+
+
 
 - 📫 How to reach me **siddheshkukade2003@gmail.com**
 - 💻 StackOverFlow- [Siddhesh Bhupendra Kukade](https://stackoverflow.com/users/15290971/siddhesh-b-kukade)
@@ -38,9 +58,8 @@ IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
 <a href="https://instagram.com/SiddheshKukade" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="SiddheshKukade" height="50" width="50" /></a>
 </p>
 <hr>
-<p align="right"> <a href="https://twitter.com/TheSidK_" target="blank"><img src="https://img.shields.io/twitter/follow/TheSidK_?logo=twitter&style=for-the-badge" alt="TheSidK_" /></a> </p>
-<p align="right"> <img src="https://img.shields.io/youtube/channel/views/UCv-7LW60AplFfQUpkFjDRhA?style=for-the-badge"/>
-</p>
+
+ 
 
 
 
