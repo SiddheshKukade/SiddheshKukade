@@ -6,9 +6,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
-<h5 align="center">
+<h3 align="center">
 IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
-</h5>
+</h3>
 
 
 <p>
