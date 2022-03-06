@@ -75,14 +75,18 @@ Domain | My Expertise
 ![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
  
  
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+
+
+
+<p align='center'>
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A022F7&size=10&lines=IND_CLUTCHERS;MODERN+DIGITAL+MALEGAON)](https://git.io/typing-svg)
-
-
-
-
-
-
-
 
 
 
