@@ -29,8 +29,10 @@ IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
   
 </p>
 <br/>
+<br/>
+<br/>
 <hr/>
-
+<br/>
  
  <p align="right" >
   <img src="https://komarev.com/ghpvc/?username=SiddheshKukade&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SiddheshKukade" />
@@ -39,9 +41,6 @@ IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
       <img src="https://img.shields.io/youtube/channel/views/UCv-7LW60AplFfQUpkFjDRhA?style=for-the-badge"/> 
    </a>
 </p>
-
-
-
 
 - 📫 How to reach me **siddheshkukade2003@gmail.com**
 - 💻 StackOverFlow- [Siddhesh Bhupendra Kukade](https://stackoverflow.com/users/15290971/siddhesh-b-kukade)
@@ -73,7 +72,6 @@ Domain | My Expertise
 <hr>
 
 ![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
-<!--  
  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
@@ -85,7 +83,7 @@ Domain | My Expertise
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
- -->
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A022F7&size=10&lines=IND_CLUTCHERS;MODERN+DIGITAL+MALEGAON)](https://git.io/typing-svg)
 
 
