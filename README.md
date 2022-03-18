@@ -1,3 +1,5 @@
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddheshKukade&repo=portfolio)](https://github.com/Siddhesh/Portfolio) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddheshKukade)](https://github.com/SiddheshKukade/SiddheshKukade) -->
 <p align="center">
   <img src="https://github.com/SiddheshKukade/SiddheshKukade/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
