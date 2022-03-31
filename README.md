@@ -26,10 +26,11 @@ Domain | My Expertise
 
  | Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
-| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page #291
- Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for src/index.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/296) |
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test plugin reducer](https://github.com/PalisadoesFoundation/talawa-admin/pull/318) |
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test src test store ](https://github.com/PalisadoesFoundation/talawa-admin/pull/310) |
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Under Review) | [🐛FIX: Code Coverage: Add test route reducer ](https://github.com/PalisadoesFoundation/talawa-admin/pull/320) |
 <hr>
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=8" alt="willdoescode" /></a></p>
