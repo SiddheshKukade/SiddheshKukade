@@ -24,6 +24,13 @@ Domain | My Expertise
 
 <hr>
 
+ | Organization / Repository   |      Contributions      |  Links |
+|----------|:-------------:|------:|
+| [PalisadoesFoundation talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page #291
+ Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+<hr>
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=8" alt="willdoescode" /></a></p>
 <p>
