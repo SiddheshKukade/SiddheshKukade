@@ -31,7 +31,7 @@ Domain | My Expertise
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test plugin reducer](https://github.com/PalisadoesFoundation/talawa-admin/pull/318) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test src test store ](https://github.com/PalisadoesFoundation/talawa-admin/pull/310) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Add test route reducer ](https://github.com/PalisadoesFoundation/talawa-admin/pull/320) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Under Review) | [🐛FIX: Code Coverage: Testing Render.helper.ts ](https://github.com/PalisadoesFoundation/talawa-admin/pull/321) |
+| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Testing Render.helper.ts ](https://github.com/PalisadoesFoundation/talawa-admin/pull/321) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Bug Report  | [🔍 Can't Scroll in the register page of talawa-admin home page](https://github.com/PalisadoesFoundation/talawa-admin/issues/290) |
 | [reduxjs/react-redux](https://github.com/reduxjs/react-redux/) |  Bug Report  | [🔍 Problem with docs in /getting-started section](https://github.com/reduxjs/react-redux/issues/1727) |
 <hr>
