@@ -83,7 +83,12 @@ Domain | My Expertise
 <a href="https://instagram.com/SiddheshKukade" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="SiddheshKukade" height="50" width="50" /></a>
 </p>
 
+<hr/>
 
+<h3> Google Cloud Badges </h3>
+<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
+
+<hr/>
 
 ![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
 <!--  
