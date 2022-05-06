@@ -91,6 +91,9 @@ Domain | My Expertise
 <hr/>
 
 ![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
 <!-- 
