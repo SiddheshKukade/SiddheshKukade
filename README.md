@@ -90,8 +90,8 @@ Domain | My Expertise
 
 <hr/>
 <div >
-<img align="left" height="500" width="500" alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
-<img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img align="left" height="500" width="400" alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
+<img align="right" height="500" width="450" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 <!--  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
