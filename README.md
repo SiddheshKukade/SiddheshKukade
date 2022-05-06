@@ -36,7 +36,7 @@ Domain | My Expertise
 | [reduxjs/react-redux](https://github.com/reduxjs/react-redux/) |  Bug Report  | [🔍 Problem with docs in /getting-started section](https://github.com/reduxjs/react-redux/issues/1727) |
 <hr>
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=8" alt="willdoescode" /></a></p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="willdoescode" /></a></p>
 <p>
   <a align= "center" href="https://github.com/SiddheshKukade">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
