@@ -89,11 +89,10 @@ Domain | My Expertise
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
 
 <hr/>
-
-![Siddhesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+<div >
+<img align="left" height="500" width="500" alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
+<img align="right" height="500" width="400" src="./profile-3d-contrib/profile-green-animate.svg" />
+</div>
 <!--  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
 <!-- 
