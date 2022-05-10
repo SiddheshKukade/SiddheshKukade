@@ -23,7 +23,8 @@ Domain | My Expertise
 **Tools & Platform**  | ![Figma](https://img.shields.io/badge/-figma-FFB6C1?logo=%22figma%22) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) ![pycharm](https://img.shields.io/badge/-pycharm-608000?logo=%22pycharm%22)
 
 <hr>
-
+<h2 align="center">Open Source Contributions </h2>
+         
  | Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
