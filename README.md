@@ -37,11 +37,12 @@ Domain | My Expertise
 | [reduxjs/react-redux](https://github.com/reduxjs/react-redux/) |  Bug Report  | [🔍 Problem with docs in /getting-started section](https://github.com/reduxjs/react-redux/issues/1727) |
 <hr>
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="willdoescode" /></a></p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
 <p>
   <a align= "center" href="https://github.com/SiddheshKukade">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-    <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+  <!--  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
+  <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Siddhesh Bhupendra Kukade's Dev Card"/>
     
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" />
 
@@ -50,14 +51,15 @@ Domain | My Expertise
 <br/>
 
 <p>
-    <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
-  
+ <!--
+ <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
+-->
+                                                                                                                                               
+ 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=5" />
   
 </p>
-<br/>
-<br/>
-<br/>
+ 
 <hr/>
 <br/>
  
@@ -86,9 +88,9 @@ Domain | My Expertise
 
 <hr/>
 
-<h3> Google Cloud Badges </h3>
+<h2 align="center"> ☁ Google Cloud Badges </h2>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
-<a   href=https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1932217" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/167246384-51b226ab-7680-4e7f-9870-60095d8cc140.png" style="height:30vh; width:16vw;"/></a>
+<a   href=https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1932217" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/167246384-51b226ab-7680-4e7f-9870-60095d8cc140.png" style="height:30vh; width:18vw;"/></a>
 <hr/>
 <div >
 <img align="left" height="500" width="400" alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
