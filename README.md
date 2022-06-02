@@ -27,6 +27,8 @@ Domain | My Expertise
          
  | Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
+ [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for groupChatMessages.js ](https://github.com/PalisadoesFoundation/talawa-api/pull/709) |
+| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for plugin.helper.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/338) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for src/index.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/296) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test plugin reducer](https://github.com/PalisadoesFoundation/talawa-admin/pull/318) |
