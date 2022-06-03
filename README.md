@@ -27,6 +27,7 @@ Domain | My Expertise
 
  | Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
+ [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Under Review) | [🐛FIX: Code Coverage: 🤖 Test for lib/resolvers/group_chat_query/groupChats.jsGroup ](https://github.com/PalisadoesFoundation/talawa-api/pull/710) |
  [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Under Review) | [🐛FIX: Code Coverage: Create tests for rc/state/action-creators/index.ts ](https://github.com/PalisadoesFoundation/talawa-admin/pull/339) |
  [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for groupChatMessages.js ](https://github.com/PalisadoesFoundation/talawa-api/pull/709) |
 | [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for plugin.helper.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/338) |
