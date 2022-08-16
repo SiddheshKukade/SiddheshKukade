@@ -23,28 +23,7 @@ Domain | My Expertise
 **Tools & Platform**  | ![Figma](https://img.shields.io/badge/-figma-FFB6C1?logo=%22figma%22) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) ![pycharm](https://img.shields.io/badge/-pycharm-608000?logo=%22pycharm%22)
 
 <hr>
-<h2 align="center">Open Source Contributions </h2>
-
- | Organization / Repository   |      Contributions      |  Links |
-|----------|:-------------:|------:|
-[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Draft Pull Request | [ [Google Summer of Code] : Plugin Architecture for Server  ](https://github.com/PalisadoesFoundation/talawa-api/pull/730) |
-[PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Draft Pull Request | [ [Google Summer of Code] : Plugin Architecture for Admin ](https://github.com/PalisadoesFoundation/talawa-admin/pull/355) |
-[PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : Prettier fix ](https://github.com/PalisadoesFoundation/talawa-admin/pull/346) |
-[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : npm run setup bug ](https://github.com/PalisadoesFoundation/talawa-api/pull/714) |
-[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Bug Report | [🐛Bug Report : npm run setup compiles with error ](https://github.com/PalisadoesFoundation/talawa-api/issues/712) |
- [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: Code Coverage: 🤖 Test for lib/resolvers/group_chat_query/groupChats.jsGroup ](https://github.com/PalisadoesFoundation/talawa-api/pull/710) |
- [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for rc/state/action-creators/index.ts ](https://github.com/PalisadoesFoundation/talawa-admin/pull/339) |
- [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for groupChatMessages.js ](https://github.com/PalisadoesFoundation/talawa-api/pull/709) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for plugin.helper.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/338) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Enabled Scrolling On register page Merged](https://github.com/PalisadoesFoundation/talawa-admin/pull/291) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Create tests for src/index.ts](https://github.com/PalisadoesFoundation/talawa-admin/pull/296) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test plugin reducer](https://github.com/PalisadoesFoundation/talawa-admin/pull/318) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Test src test store ](https://github.com/PalisadoesFoundation/talawa-admin/pull/310) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Add test route reducer ](https://github.com/PalisadoesFoundation/talawa-admin/pull/320) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: Code Coverage: Testing Render.helper.ts ](https://github.com/PalisadoesFoundation/talawa-admin/pull/321) |
-| [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Bug Report  | [🔍 Can't Scroll in the register page of talawa-admin home page](https://github.com/PalisadoesFoundation/talawa-admin/issues/290) |
-| [reduxjs/react-redux](https://github.com/reduxjs/react-redux/) |  Bug Report  | [🔍 Problem with docs in /getting-started section](https://github.com/reduxjs/react-redux/issues/1727) |
-<hr>
+ 
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
 <p>
