@@ -27,8 +27,10 @@ Domain | My Expertise
 
  | Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
-[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Draft Pull Request | [ [Google Summer of Code] : Plugin Architecture for Server  ](https://github.com/PalisadoesFoundation/talawa-api/pull/730) |
-[PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Draft Pull Request | [ [Google Summer of Code] : Plugin Architecture for Admin ](https://github.com/PalisadoesFoundation/talawa-admin/pull/355) |
+[PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa) |  Pull Request (Under Review)| [ [Google Summer of Code] :  Enabling Plugins , Donation as a Plugin, Refractor for TalawaPluginProvider Widget  ](https://github.com/PalisadoesFoundation/talawa/pull/1355) |
+[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Under Review )| [ [Google Summer of Code] : Performing Donations ( Ability to store donation transaction in Talwa-api ) ](https://github.com/PalisadoesFoundation/talawa-api/pull/756) |
+[PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Google Summer of Code] : Plugin Architecture for Server  ](https://github.com/PalisadoesFoundation/talawa-api/pull/730) |
+[PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [ [Google Summer of Code] : Plugin Architecture for Admin ](https://github.com/PalisadoesFoundation/talawa-admin/pull/355) |
 [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : Prettier fix ](https://github.com/PalisadoesFoundation/talawa-admin/pull/346) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : npm run setup bug ](https://github.com/PalisadoesFoundation/talawa-api/pull/714) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Bug Report | [🐛Bug Report : npm run setup compiles with error ](https://github.com/PalisadoesFoundation/talawa-api/issues/712) |
