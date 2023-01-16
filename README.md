@@ -25,13 +25,12 @@ Domain | My Expertise
 
 <hr>
 
-
-
+<!-- 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
 <p>
   <a align= "center" href="https://github.com/SiddheshKukade">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-  <!--  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
+  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
   <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Siddhesh Bhupendra Kukade's Dev Card"/>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" />
@@ -39,17 +38,10 @@ Domain | My Expertise
   </a>
 </p>
 <br/>
-
 <p>
- <!--
  <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
--->
-
-
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshKukade&layout=compact&theme=radical&langs_count=5" />
-
 </p>
-
 <hr/>
 <br/>
 
@@ -66,9 +58,9 @@ Domain | My Expertise
 - 🤖 Kaggle - [Siddhya](https://www.kaggle.com/siddhya)
 <br><br>
 <hr>
+-->
 
-
-
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/TheSidK_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="SiddheshKukade Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
@@ -76,7 +68,8 @@ Domain | My Expertise
 <a href="https://instagram.com/SiddheshKukade" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="SiddheshKukade" height="50" width="50" /></a>
 </p>
 
-<hr/>
+<hr/> -->
+
 <!--
 <h2 align="center"> ☁ Google Cloud Badges </h2>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
@@ -84,7 +77,7 @@ Domain | My Expertise
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1992326" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/168458068-a0d8bc23-1561-4688-9fb1-718f366e673d.png" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2021771" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/169092961-bdcc7de0-ce4a-4efd-b309-fffa7f7ea13b.png" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2095522" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
-<hr/> -->
+<hr/>
 
 <div >
 <img alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
