@@ -22,7 +22,11 @@ Domain | My Expertise
 **OS**  | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a> ![MacOS](https://img.shields.io/badge/-macOS-595959?logo=%22apple%22)
 **Tools & Platform**  | ![Figma](https://img.shields.io/badge/-figma-FFB6C1?logo=%22figma%22) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) ![pycharm](https://img.shields.io/badge/-pycharm-608000?logo=%22pycharm%22)
 
+<center>
+
 [![SiddheshKukade's GitHub stats](https://stats.quine.sh/SiddheshKukade/github)](https://quine.sh)
+  
+ </center>
 <hr>
 
 <!-- 
