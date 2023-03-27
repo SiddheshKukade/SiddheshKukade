@@ -10,8 +10,9 @@
 <h3 align="center">
 IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
 </h3>
-
-<center> ⚡️ siddheshkukade@getalby.com </center>
+<h4 align="center">
+⚡️ siddheshkukade@getalby.com
+</h5>
 
 Domain | My Expertise
 --- | --- 
