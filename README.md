@@ -1,16 +1,8 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddheshKukade&repo=portfolio)](https://github.com/Siddhesh/Portfolio) -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddheshKukade)](https://github.com/SiddheshKukade/SiddheshKukade) -->
 
-<h1 align="center">Hi there || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1>
-<h3 align="center">
-IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
-</h3>
-<h4 align="center">
-⚡️ https://getalby.com/p/siddheshkukade
-</h5>
+<h1 align="center">Hi there || नमस्ते   </h1>
+ 
 
 Domain | My Expertise
 --- | --- 
