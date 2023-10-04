@@ -1,8 +1,6 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddheshKukade&repo=portfolio)](https://github.com/Siddhesh/Portfolio) -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddheshKukade)](https://github.com/SiddheshKukade/SiddheshKukade) -->
-<p align="center">
-  <img src="https://github.com/SiddheshKukade/SiddheshKukade/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 <h1 align="center">Hi there || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
